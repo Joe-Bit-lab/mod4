@@ -1,0 +1,1 @@
+Raw data stored on AWS S3
