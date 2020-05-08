@@ -46,7 +46,7 @@ Template from Mod 3
 
 #### Data description: 
 
-https://github.com/jaybee202/mod3_project/tree/master/data
+https://github.com/jaybee202/mod4
 
 Zillow data set included 3.9 million rows (in long format) for 15,000 zip codes from 1996 to 2018.
 
